@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculationsTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-24T00:13:38" hostname="LAPTOP-GC77NK5L" time="0.09">
-  <properties/>
-  <testcase name="duplicate()" classname="CalculationsTests" time="0.09"/>
-  <system-out><![CDATA[Р”СѓР±Р»РёРєР°С‚С‹ РїРѕСЃС‡РёС‚Р°РЅС‹
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
